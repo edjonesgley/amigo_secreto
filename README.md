@@ -7,7 +7,6 @@
 <br>
 
 <video controls>
-  <source src="challenge-amigo-secreto_pt-main/assets/Como_jogar.mp4" type="video/mp4">
-  <source src="meu-video.ogg" type="video/ogg">
-  Seu navegador não suporta a tag de vídeo.
+  <source src="challenge-amigo-secreto_pt-main/assets/Em_branco.mp4" type="video/mp4">
+ 
 </video>
