@@ -19,4 +19,19 @@ https://github.com/user-attachments/assets/5f717029-c0e6-44ba-9a3c-772a452f58ed
 
 
 
+https://github.com/user-attachments/assets/e89c8d73-65b9-4c8b-bd34-99f531d4fda0
+
+
+
+
+
+
+<p>Caso tente adicionar ou sortear amigo em branco o jogo não aceita</p>
+<br>
+
+
+
+
+
+https://github.com/user-attachments/assets/733f27e0-e92a-4de8-8970-c827630dc57e
 
