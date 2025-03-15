@@ -5,18 +5,15 @@
 <br>
 <p>Como jogar</p>
 <br>
-
-<video controls>
-  <source src="challenge-amigo-secreto_pt-main/assets/Em_branco.mp4" type="video/mp4">
- 
-</video>
-
+<p>Você começa colocando o nome de seus amigos participantes </p>
+<br>
 
 https://github.com/user-attachments/assets/5f717029-c0e6-44ba-9a3c-772a452f58ed
 
 
 
-https://github.com/user-attachments/assets/fe5de104-2da2-410b-88bf-d6d69d52d0f8
+<p>O número de participantes não pode ser impar</p>
+<br>
 
 
 
